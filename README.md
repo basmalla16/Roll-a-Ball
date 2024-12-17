@@ -1,5 +1,6 @@
-﻿![Uploading 98d62c5a-f856-4b1f-ae9f-d92fc780aa8a_MASTER.png…]()
 # Roll-a-Ball Game 
+![Game Screenshot](images/98d62c5a-f856-4b1f-ae9f-d92fc780aa8a_MASTER.png)
+
 This is a simple 3D game built in Unity where the player controls a ball that rolls around a 3D environment, collecting pickups while avoiding obstacles. The game is a great example of basic game mechanics, including player movement, collision detection, and score tracking.
 
 # Key Features:
